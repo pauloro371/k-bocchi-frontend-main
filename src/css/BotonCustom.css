@@ -1,0 +1,27 @@
+.botonRegistroFisio{
+    background-color: #ABFFDE;
+    border:2px solid #7bb49c;
+    border-radius: 0.2em;
+    transition: background-color 0.3s ease-in;
+}
+
+.botonRegistroFisio:hover,.botonRegistroActivoFisio{
+    background-color: #97dabe;
+}
+
+.botonRegistroPaciente{
+    background-color: #AECAFF;
+    border:2px solid #6b7d9e;
+    border-radius: 0.2em;
+    transition: background-color 0.3s ease-in;
+}
+.botonRegistroPaciente:hover,.botonRegistroActivoPaciente{
+    background-color: #5989EB;
+    border:2px solid #6b7d9e;
+}
+
+
+.svgIconoRegistro{
+    min-width: 10px;
+    min-height: 5vh;
+}
